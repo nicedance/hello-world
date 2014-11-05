@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-just another repository
+I am Oliver, nice to meet you
